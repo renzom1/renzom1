@@ -62,4 +62,4 @@ I'm currently looking for opportunities as a **Junior Data Engineer** or **Data 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/renzom1)
+[LinkedIn](https://www.linkedin.com/in/renzo-micchia-pennella-a7359a3a9/) · [GitHub](https://github.com/renzom1)
