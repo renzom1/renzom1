@@ -1,6 +1,6 @@
 # Hi, I'm Renzo Micchia
 
-### Data Engineer | Data Analyst
+### Aspiring Data Engineer | Data Analyst
 
 Physics graduate transitioning into Data Engineering and Data Analysis, with a strong background in quantitative analysis, programming, and problem solving.
 
