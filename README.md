@@ -10,6 +10,14 @@ I'm currently building practical data projects focused on data ingestion, ETL pi
 
 ## Featured Projects
 
+### [data-warehouse-project](https://github.com/renzom1/data-warehouse-project)
+
+Data Warehouse project built in SQL Server integrating CRM and ERP data through a Medallion Architecture, with Bronze, Silver, and Gold layers.
+
+**Focus:** SQL Server · T-SQL · Data Warehousing · Dimensional Modeling · ETL · Data Quality · Git
+
+---
+
 ### [job-market-data-pipeline](https://github.com/renzom1/job-market-data-pipeline)
 
 Data engineering project focused on analyzing the evolution of the technology job market over time.
@@ -38,9 +46,9 @@ End-to-end data pipeline that collects, processes, stores, and analyzes World Cu
 
 **Languages:** Python · SQL
 
-**Data Engineering:** ETL · REST APIs · Data Modeling · Data Pipelines · SQLite
+**Data Engineering:** ETL · REST APIs · Data Modeling · Data Pipelines · Data Warehouse · SQL Server · T-SQL · SQLite
 
-**Tools:** Git · GitHub · VS Code
+**Tools:** Git · GitHub · VSCode
 
 **Visualization:** Power BI
 
